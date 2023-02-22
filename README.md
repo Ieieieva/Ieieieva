@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Ieva Andersone!
 
-<!--
+
 I am a passionate frontend developer
 I love to experience how powerful and beautiful things can be created with coding
 
 
 - 📫 How to reach me: ieieieva.and@gmail.com
--->
+
 ---
 
 🧰 Toolbox
