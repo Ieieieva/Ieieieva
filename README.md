@@ -4,9 +4,12 @@
 I am a passionate frontend developer
 <br>
 I love to experience how powerful and beautiful things can be created with coding
+<br>
+<br>
 
-
-- 📫 How to reach me: ieieieva.and@gmail.com
+📫 How to reach me: 
+-       ieieieva.and@gmail.com
+-       linkedin.com/in/ieva-andersone/
 
 ---
 
