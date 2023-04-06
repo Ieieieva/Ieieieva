@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Ieva Andersone!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Ieva Andersone!
 
 
 I am a passionate frontend developer
@@ -12,7 +12,14 @@ I love to experience how powerful and beautiful things can be created with codin
 -       linkedin.com/in/ieva-andersone/
 
 ---
+### Some of my projects
+-       https://playievaspiano.netlify.app/
 
+<a href="https://github.com/Ieieieva/RPS-Game"> <img src="https://user-images.githubusercontent.com/84572907/230288541-9a3113e7-1e19-4087-bbce-d3615f019c47.gif" width="300"/> </a>
+<a href="https://github.com/Ieieieva/Vue-Pinia_MoviesApp"><img src="https://user-images.githubusercontent.com/84572907/230290769-25b1a9b3-4436-41e9-b9d7-316647aa0c4e.gif" width="300"/></a>
+<a href="https://github.com/Ieieieva/Vue_Jokes-API"><img src="https://user-images.githubusercontent.com/84572907/230291269-a31602d7-9a38-4b83-85bd-d788c8958785.gif" width="300"/></a>
+<a href="https://github.com/Ieieieva/Location_app"><img src="https://user-images.githubusercontent.com/84572907/230291978-f8faa47a-a800-428d-b27a-7b2c71f65d59.gif" width="300"/></a>
+---
 🧰 Toolbox
 <br>
 <br>
