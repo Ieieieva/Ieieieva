@@ -12,8 +12,12 @@ I love to experience how powerful and beautiful things can be created with codin
 -       linkedin.com/in/ieva-andersone/
 
 ---
-### Some of my projects
+### Have a look at some of my projects
 -       https://playievaspiano.netlify.app/
+-       https://ievas-todo-list.netlify.app/
+-       https://rrr-and-mmm.netlify.app/
+-       https://ievas-photo-gallery.netlify.app/
+-       https://ievas-rock-paper-scissors-game.netlify.app/
 
 <a href="https://github.com/Ieieieva/RPS-Game"> <img src="https://user-images.githubusercontent.com/84572907/230288541-9a3113e7-1e19-4087-bbce-d3615f019c47.gif" width="300"/> </a>
 <a href="https://github.com/Ieieieva/Vue-Pinia_MoviesApp"><img src="https://user-images.githubusercontent.com/84572907/230290769-25b1a9b3-4436-41e9-b9d7-316647aa0c4e.gif" width="300"/></a>
